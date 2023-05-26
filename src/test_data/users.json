@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Michal",
+        "is_friend": false,
+        "image": "test_data/jpg_data/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Joe",
+        "is_friend": true,
+        "image": "test_data/jpg_data/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jim",
+        "is_friend": false,
+        "image": "./test_data/jpg_data/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jerry",
+        "is_friend": true,
+        "image": "./test_data/jpg_data/3.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Michal",
+        "is_friend": false,
+        "image": "test_data/jpg_data/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Joe",
+        "is_friend": true,
+        "image": "test_data/jpg_data/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jim",
+        "is_friend": false,
+        "image": "./test_data/jpg_data/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jerry",
+        "is_friend": true,
+        "image": "./test_data/jpg_data/3.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Michal",
+        "is_friend": false,
+        "image": "test_data/jpg_data/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Joe",
+        "is_friend": true,
+        "image": "test_data/jpg_data/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jim",
+        "is_friend": false,
+        "image": "./test_data/jpg_data/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jerry",
+        "is_friend": true,
+        "image": "./test_data/jpg_data/3.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Michal",
+        "is_friend": false,
+        "image": "test_data/jpg_data/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Joe",
+        "is_friend": true,
+        "image": "test_data/jpg_data/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jim",
+        "is_friend": false,
+        "image": "./test_data/jpg_data/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jerry",
+        "is_friend": true,
+        "image": "./test_data/jpg_data/3.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Michal",
+        "is_friend": false,
+        "image": "test_data/jpg_data/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Joe",
+        "is_friend": true,
+        "image": "test_data/jpg_data/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jim",
+        "is_friend": false,
+        "image": "./test_data/jpg_data/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jerry",
+        "is_friend": true,
+        "image": "./test_data/jpg_data/3.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Michal",
+        "is_friend": false,
+        "image": "test_data/jpg_data/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Joe",
+        "is_friend": true,
+        "image": "test_data/jpg_data/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jim",
+        "is_friend": false,
+        "image": "./test_data/jpg_data/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jerry",
+        "is_friend": true,
+        "image": "./test_data/jpg_data/3.jpg"
+    }
+]
